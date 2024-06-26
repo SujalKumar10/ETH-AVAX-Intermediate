@@ -17,3 +17,10 @@ This project consists of a Solidity smart contract for managing a simple wallet 
    ```bash
    git clone https://github.com/your-username/wallet-manager.git
    cd wallet-manager
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+
+
